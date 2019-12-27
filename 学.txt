@@ -1,0 +1,50 @@
+把不懂的地方标记或者记录下来,我得想一下再进行解答
+找资源学习,或者去下面这个网站
+https://edu.creatorblue.com/itdlwebepsite/library?showbind=1
+账号:17336515320
+密码:creatorbluezjl19981027
+以下是我觉得工作中需要用到的技术,可以按重要程度进行学习,推荐了几本我认为比较好的书(其实我也没怎么看,就是感觉,够厚)
+java基础应该不用学了,直接从spring开始
+
+后端基础:
+java,最重要,java编程思想第四版
+
+后端框架:
+spring,重要,spring实战第四版
+springmvc,重要
+mybatis,重要
+springboot,重要
+
+数据库:
+mysql,重要,数据库系统概论第5版
+
+项目管理:
+svn,比较重要
+git,比较重要
+
+项目构建:
+maven,比较重要
+
+前端基础:
+html5,要懂
+js,要懂
+css,要懂
+
+前端框架:
+jquery,要懂
+Bootstrap,要懂
+
+eruka 服务注册中心
+ribbon feign 负载均衡
+hystix  熔断器 
+zuul 网关  反向代理，负载均衡，过滤功能
+config+bus
+
+
+
+
+
+
+
+
+
